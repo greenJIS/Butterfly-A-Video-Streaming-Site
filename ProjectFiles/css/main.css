@@ -10,7 +10,7 @@
 
 .topbar {
     background-image: ;
-    background: #191919;
+    background: #898989;
     border: 1px solid #F2F2F3;
     margin: 0 0 0 5%;
     width: 90%;
@@ -50,7 +50,7 @@
 }
 
 .footer  {
-	background: #191919;
+	background: #898989;
 	border: 1px solid #F2F2F3;
 	margin: 0 0 0 5%;
 	width: 90%;
@@ -101,17 +101,17 @@
 
 ::-webkit-input-placeholder {
     color: orange;
-    background-color: #191919;
+    background-color: #999999;
 }
 
 ::moz-placeholder {
     color: orange;
-    background-color: #191919;
+    background-color: #999999;
 }
 
 ::ms-input-placeholder {
     color: orange;
-    background-color: #191919;
+    background-color: #999999;
 }
 
 .topmenu {
