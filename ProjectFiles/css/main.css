@@ -31,7 +31,7 @@
 
 
 .content {
-    background: #7A9898;
+    background: #BABABA;
     border: 1px solid #F2F2F3;
     margin: 12px 12px 12px 12px;
 
@@ -262,4 +262,8 @@ table, tr, td {
 }
 .img-circle{
     border-radius:50%
+}
+
+.login {
+
 }
