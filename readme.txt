@@ -3,7 +3,7 @@ It is a video streaming website. Anyone can stream any video without login but t
 
 
 Supervisor:
-	Jakaria Rabbi	
+	Mr. Jakaria Rabbi	
 	Lecturer
 	Dept. of Computer Science and Engineering
 	Khulna University of Engineering & Technology
